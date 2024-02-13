@@ -21,3 +21,4 @@ Your data markers should reflect the magnitude of the earthquake by their size a
 
 Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 
+![alt text](image-1.png)
